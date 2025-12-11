@@ -78,8 +78,17 @@
 </p>
 
 
-## 📫 Contact / Links  
-- [LinkedIn](www.linkedin.com/in/rakesh-br-ai
+## 🌐 Connect with Me
+<p>
+  <a href="www.linkedin.com/in/rakesh-br-ai
+
+" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="rakeshbr2003@gmail.com.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
 
 )  
 
