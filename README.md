@@ -3,7 +3,9 @@
 
 ## 👩‍💻 About Me  
 🎓 Final-year MCA student specializing in Artificial Intelligence, Machine Learning & Data Science at S-Vyasa University (CGPA: 9.0/10).
+
 💡 Passionate about AI/ML, Deep Learning, NLP, and real-time intelligent systems.
+
 🚀 Aspiring Software Development Engineer / Machine Learning Engineer, with strong CS fundamentals, analytical thinking, and hands-on project experience  
 
 ## 🧑‍💻 Programming Languages
