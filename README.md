@@ -78,19 +78,12 @@
 </p>
 
 
-## 🌐 Connect with Me
-<p>
-  <a href="www.linkedin.com/in/rakesh-br-ai
+## 🌐 Connect with Me  
+- **LinkedIn:** www.linkedin.com/in/rakesh-br-ai
 
-" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="rakeshbr2003@gmail.com.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
+ 
+- **Email:** rakeshbr2003@gmail.com  
 
-)  
 
 <!--
 **rakeshBr123rakesh/rakeshBr123rakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
