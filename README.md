@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Rakesh B R 👋
+
+
+## 👩‍💻 About Me  
+I am a passionate Machine Learning & Data Science enthusiast building AI-driven solutions.  
+
+## 🛠️ Skills  
+- **Languages / Tools:** Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, etc.  
+- **Areas:** Deep Learning, Computer Vision, Explainable AI (XAI), ML pipelines, Data Analysis  
 
 <!--
 **rakeshBr123rakesh/rakeshBr123rakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
