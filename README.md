@@ -5,7 +5,17 @@
 I am a passionate Machine Learning & Data Science enthusiast building AI-driven solutions.  
 
 ## 🛠️ Skills  
-- **Languages / Tools:** Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, etc.  
+- **Languages / Tools:** Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, etc.
+- ## 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/microsoft/ML-For-Beginners/main/images/logos/scikit-learn.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/microsoft/ML-For-Beginners/main/images/logos/matplotlib.png" height="50"/>
+</p>
+ 
 - **Areas:** Deep Learning, Computer Vision, Explainable AI (XAI), ML pipelines, Data Analysis
 
 ## 📫 Contact / Links  
