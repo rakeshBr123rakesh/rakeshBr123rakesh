@@ -6,7 +6,12 @@ I am a passionate Machine Learning & Data Science enthusiast building AI-driven 
 
 ## 🛠️ Skills  
 - **Languages / Tools:** Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, etc.  
-- **Areas:** Deep Learning, Computer Vision, Explainable AI (XAI), ML pipelines, Data Analysis  
+- **Areas:** Deep Learning, Computer Vision, Explainable AI (XAI), ML pipelines, Data Analysis
+
+## 📫 Contact / Links  
+- [LinkedIn](www.linkedin.com/in/rakesh-br-ai
+
+)  
 
 <!--
 **rakeshBr123rakesh/rakeshBr123rakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
